@@ -1,9 +1,9 @@
 # Hello World
 
-## Greetings!
+## Here are some Coronavirus statistics!
 
-| State      | Number of Cases  | Number of Deaths  |
-| ---------- |:---------------: | -----------------:|
-| col 3 is   | right-aligned    | $1600             |
-| col 2 is   | centered         |   $12             |
-| zebra strip| are neat         |    $1             |
+| State       | Number of Cases  | Number of Deaths  |
+| ----------- |:---------------: | -----------------:|
+| Delaware    | 2,931            | 82                |
+| New Jersey  | 99,989           | 5,368             |
+| Pennsylvania| 37,069           | 1,421             |
