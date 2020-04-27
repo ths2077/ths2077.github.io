@@ -3,7 +3,7 @@
 ## Here are some Coronavirus statistics!
 
 ![Image of Coronavirus]
-(https://www.fda.gov/files/styles/featured_content_background_image/public/covid19-1600x900.jpg?itok=ZvOhgrde)
+(https://cnycentral.com/resources/media/20f9b9c4-12f9-4921-910b-c433275c41df-large16x9_coronavirus.PNG?1584455969159)
 
 | State       | Number of Cases  | Number of Deaths  |
 | :---------: |:---------------: | :----------------:|
