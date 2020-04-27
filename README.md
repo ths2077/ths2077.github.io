@@ -3,7 +3,7 @@
 ## Here are some Coronavirus statistics!
 
 ![Image of Coronavirus]
-(https://www.ecdc.europa.eu/sites/default/files/styles/is_large/public/images/Coronavirus_H.png?itok=_QCjKfqJ)
+(https://www.fda.gov/files/styles/featured_content_background_image/public/covid19-1600x900.jpg?itok=ZvOhgrde)
 
 | State       | Number of Cases  | Number of Deaths  |
 | :---------: |:---------------: | :----------------:|
